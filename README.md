@@ -15,14 +15,7 @@ Terraform allows you to define and provision infrastructure resources using a de
 - **Resource Providers:** Terraform supports a wide range of cloud providers, making it possible to manage resources across multiple cloud platforms
 ## Getting Started
 
-1. Install Terraform by following the instructions in the [official Terraform documentation](https://www.terraform.io/docs/cli/index.html).
-2. Create a new directory for your Terraform project and navigate to it in your terminal.
-3. Initialize your project by running `terraform init` in your project directory.
-4. Define your infrastructure configurations in `.tf` files using the HashiCorp Configuration Language (HCL).
-5. Run `terraform plan` to see the execution plan for your changes.
-6. Run `terraform apply` to apply the changes to your infrastructure.
-7. Make use of Terraform's features, such as modules, to create reusable and scalable configurations.
-
+- Install Terraform by following the instructions in the [official Terraform documentation](https://www.terraform.io/docs/cli/index.html).
 
 ## Stages of Terraform Workflow
 
