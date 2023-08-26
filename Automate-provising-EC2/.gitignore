@@ -1,0 +1,8 @@
+.terraform/*
+#terraform state file
+*.tfstate
+*.tfstate.*
+
+#tf vars files may contain the sensitive data 
+*.tfvars
+output.text
